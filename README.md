@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rubishin
+- 👋 Hi, I’m @aswell
 - 👀 I’m interested in code 
 - 🌱 I’m currently learning very basic codes
 - 💞️ I’m looking to collaborate on help me to learn coding
